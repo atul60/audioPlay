@@ -1,0 +1,31 @@
+.file-input-container {
+    margin-bottom: 20px;
+  }
+  
+  .custom-file-input-label {
+    display: inline-block;
+    padding: 10px 15px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #3498db;
+    border: 1px solid #2980b9;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .custom-file-input-label:hover {
+    background-color: #2980b9;
+  }
+  
+  input[type="file"] {
+    display: none;
+  }
+
+  .selected-file-name {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #333;
+  }
+  

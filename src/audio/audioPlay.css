@@ -1,0 +1,13 @@
+.audio-player {
+    .audio-play-section {
+        padding: 12px;
+        margin: auto;
+        width: 80vw;
+        border-radius: 15px;
+        background-color: #b49a9a;
+    }
+}
+
+audio {
+    width: 75vw;
+}
